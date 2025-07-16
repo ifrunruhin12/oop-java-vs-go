@@ -4,7 +4,7 @@ This repo is a comparison of key Object-Oriented Programming concepts in Java an
 
 ## 📚 Topics
 
-- [Class](./class)
+- [Object](./object)
 - [Abstraction](./abstraction)
 - [Encapsulation](./encapsulation)
 - [Inheritance (vs Composition)](./inheritance)
