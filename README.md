@@ -31,7 +31,5 @@ This project started as a deep-dive learning journey into OOP after I first lear
 
 > “Inheritance is evil.” - Rob Pike (Go Creator)
 
-## 📖 Coming Soon: Blog post - “Go Doesn’t Do OOP Like Your Grandpa’s Java”
-
-Stay tuned!
+[Blog post](https://ifrunsthoughts.wordpress.com/2025/07/17/go-vs-oop-the-minimalist-heros-journey/)
 
